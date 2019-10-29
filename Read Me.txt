@@ -1,0 +1,11 @@
+Hello! This program was created as a tool for the students in my foundations of software development class who were learning how to code. 
+
+For many of the students, this was their first time programming. They had lot of really great ideas, but had trouble implementing them in Processing. Also, some of them were still figuring out their ideas, but having to change ideas while programming can be quite time-consuming as it means you have to rewrite large chunks of code.
+
+So I created a tool for them which helped the students in their projects. It allows the user to quickly create rough prototypes of images in minutes.
+
+It does this by allowing you to draw your project using the mouse and then prints out the code necessary to create that drawing in the console beneath the program. Then you copy the code it printed out and put it into another Processing file. Click play, and you have a working prototype. This prototype can be the first rough draft of a project. After the user has created their prototype they can do the final adjustments in actual code.
+
+Further instructions for how to use the tool are at the very top of the program in a gray-colored comment.
+
+I hope that this tool helps liberate your creativity and shows you just how powerful programming can be.
